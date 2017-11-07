@@ -48,6 +48,7 @@ include(FeatureSummary)
 feature_summary(WHAT ALL)
 
 file(GLOB_RECURSE ALL_SOURCES lib/src/*.cc lib/inc/*.hpp)
+add_subdirectory(exe)
 add_subdirectory(lib)
 add_subdirectory(locales)
 

@@ -1,12 +1,19 @@
 # Change Log
 
-## [0.2.0] - TBD
+## [0.2.1] - TBD
+
+### Additions
+
+- Added this new entry in the master branch; It should appear correctly after an automated mergeup
+
+## [0.2.0] - 2017-00-00
 
 ### Additions
 
 - Support for AIX and Solaris platforms
 - Data source for lparstat on AIX
 - Detectors for AIX LPARs and WPARs, Solaris zones and LDoms
+- Added this line in the master branch; It should appear correctly after an automated mergeup
 
 ### Fixes
 
@@ -17,6 +24,7 @@
 ### Additions
 
 - Included detectors for Xen and systemd-nspawn.
+- Added a new entry here in the master branch; It should still appear in the correct place after an automatic mergeup.
 
 ### Fixes
 
